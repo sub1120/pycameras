@@ -1,2 +1,3 @@
-# pycameras-keras-implementation
-CAMERAS keras implementaion.
+# pycameras
+
+CAMERAS Model Visualisation Tecnique, keras implementaion.
